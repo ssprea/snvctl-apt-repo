@@ -24,6 +24,14 @@ sudo curl -s --compressed -o /etc/apt/sources.list.d/snvctl.list "https://ssprea
 sudo apt update
 ```
 
+
+
+## Install software
+
+```
+sudo apt install ssprea-nvidia-control ssprea-nvidia-control-cli
+```
+
 If you get an error that looks like this, follow the backports PPA section:
 
 ```
@@ -32,10 +40,4 @@ The following packages have unmet dependencies:
  ssprea-nvidia-control-cli : Depends: dotnet-runtime-9.0 but it is not installable
 E: Unable to correct problems, you have held broken packages.
 
-```
-
-## Install software
-
-```
-sudo apt install ssprea-nvidia-control ssprea-nvidia-control-cli
 ```
