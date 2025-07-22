@@ -31,6 +31,7 @@ sudo apt update
 ```
 sudo apt install ssprea-nvidia-control ssprea-nvidia-control-cli
 ```
+NOTE: CLI package is required for GUI to work properly.
 
 If you get an error that looks like this, follow the backports PPA section:
 
