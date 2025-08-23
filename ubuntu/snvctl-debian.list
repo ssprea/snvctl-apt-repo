@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/keyrings/snvctl.gpg] https://ssprea.github.io/snvctl-apt-repo/ubuntu ./
+deb [signed-by=/etc/apt/keyrings/snvctl-apt-repo.gpg] https://ssprea.github.io/snvctl-apt-repo/ubuntu ./
