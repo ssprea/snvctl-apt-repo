@@ -105,6 +105,17 @@ SHA1: 0720202af2eb6062518dec151ac2722de4c94d4a
 SHA256: 93fa16df2861c8061f749682d2a53ca05dd29d81e6ee32f808c2098be55b68da
 Description: A GUI tool to manage NVidia GPUs overclock, fans and power limit. Supports both Wayland and X11
 
+Package: ssprea-nvidia-control
+Version: 1.1.3-1
+Architecture: amd64
+Maintainer: ssprea <ssprea@proton.me>
+Filename: ./ssprea-nvidia-control_1.1.3-1_amd64.deb
+Size: 31522636
+MD5sum: 06e8e440d06e1e72bedf512d9c5100ec
+SHA1: 1db735040ed7b8f77d21bef1c39b344a0e6ce605
+SHA256: e666ab25b252a2f588685d87bb435c312821f9706e2429d56990f977329e48fc
+Description: A GUI tool to manage NVidia GPUs overclock, fans and power limit. Supports both Wayland and X11
+
 Package: ssprea-nvidia-control-cli
 Version: 1.0.0
 Architecture: amd64
@@ -210,5 +221,16 @@ Size: 23424564
 MD5sum: 258e2626a8296ce154c08627d33ebdaa
 SHA1: 263f86e147a13f53d1c28e051a8eca11ff8e1b41
 SHA256: e0d9c38129b371e7cca25295cefdb0c7200c41bb0fedff1a14d786814ce334b6
+Description: A CLI tool to manage NVidia GPUs overclock, fans and power limit. Supports both Wayland and X11
+
+Package: ssprea-nvidia-control-cli
+Version: 1.1.3-1
+Architecture: amd64
+Maintainer: ssprea <ssprea@proton.me>
+Filename: ./ssprea-nvidia-control-cli_1.1.3-1_amd64.deb
+Size: 23425724
+MD5sum: 7cb95d05a63f665e1cbf333c7911239c
+SHA1: 6bb318ca4c2fe5172aaf58f19b5cdd5250e55eec
+SHA256: 262737b8b303ccc8c0d289e2bec921f9abdcf5c27f8e306c4c64df77c4048bd7
 Description: A CLI tool to manage NVidia GPUs overclock, fans and power limit. Supports both Wayland and X11
 
