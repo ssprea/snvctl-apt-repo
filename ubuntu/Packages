@@ -1,3 +1,36 @@
+Package: slimit-cli
+Version: 2.0.0-1
+Architecture: amd64
+Maintainer: ssprea <ssprea@proton.me>
+Filename: ./slimit-cli_2.0.0-1_amd64.deb
+Size: 24473084
+MD5sum: f24c900de595c208af2bd51dad611158
+SHA1: 502fb3fa4d337f3c8b243f67ab2ce4780250ec11
+SHA256: e42575b5d260b3598dcb97c5da71d8266e41abd5d7fbd1a267c92f85b52a4e3a
+Description: A CLI tool to manage NVidia GPUs overclock, fans and power limit. Supports both Wayland and X11
+
+Package: slimit-daemon
+Version: 2.0.0-1
+Architecture: amd64
+Maintainer: ssprea <ssprea@proton.me>
+Filename: ./slimit-daemon_2.0.0-1_amd64.deb
+Size: 33073880
+MD5sum: 99391f8599a3ee784e499d3a9baca893
+SHA1: a7a6433d862e45ee48cebf2d5fcd28957fddb255
+SHA256: 6fc939b3d81e5bb9078cc60c36a973c6873323d479a333a612654f5f9c3ce050
+Description: Daemon tool for SLimit utility
+
+Package: slimit-gui
+Version: 2.0.0-1
+Architecture: amd64
+Maintainer: ssprea <ssprea@proton.me>
+Filename: ./slimit-gui_2.0.0-1_amd64.deb
+Size: 36170144
+MD5sum: a531828c89d42eb92ab467bef5b7b796
+SHA1: ccb06a838965658526cf4327f3886367495691ee
+SHA256: 9996a54b9fd36003df027dcde33bd125092e590a80f5812618131bc04ccd44eb
+Description: A Unified GPUs management tool to overclock, control fans and power limit. Supports both Wayland and X11
+
 Package: ssprea-nvidia-control
 Version: 1.0.0
 Architecture: amd64
