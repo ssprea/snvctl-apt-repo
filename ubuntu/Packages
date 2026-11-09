@@ -226,6 +226,21 @@ SHA1: f7ed11d879c49df6940c37219ad3f1095aae5870
 SHA256: 9fc7f08b157b7d4acc0d6f32caaf885085be7fc0076c83201c823e8c7f1383b2
 Description: A GUI tool to manage NVidia GPUs overclock, fans and power limit. Supports both Wayland and X11
 
+Package: ssprea-nvidia-control
+Version: 2.0.0-1
+Architecture: amd64
+Maintainer: ssprea <ssprea@proton.me>
+Depends: slimit-gui
+Filename: ./ssprea-nvidia-control_2.0.0-1_amd64.deb
+Size: 748
+MD5sum: 9ff05eb6340138fa9ae990355bd710ab
+SHA1: 5258b5eeafbd40ab7bc4b5c74d2d41f745595c0f
+SHA256: 8208d14c165dc05db312a14b4aa58604684fa492a03139f8a29bc2b930bee863
+Section: oldlibs
+Priority: optional
+Description: Transitional package for slimit-gui
+ This is a transitional package and can safely be removed.
+
 Package: ssprea-nvidia-control-cli
 Version: 1.0.0
 Architecture: amd64
@@ -431,21 +446,6 @@ Size: 756
 MD5sum: bca7929c21e3534e0e1e913d8e295171
 SHA1: 65f0f2c69b834124b89c047cd4a44c071b39ed52
 SHA256: f15b3c20428e4c1cc4f3c3f3a8fcfc8f2643ab65278e309a96296579cf6b31cd
-Section: oldlibs
-Priority: optional
-Description: Transitional package for slimit-gui
- This is a transitional package and can safely be removed.
-
-Package: ssprea-nvidia-control-gui
-Version: 2.0.0-1
-Architecture: amd64
-Maintainer: ssprea <ssprea@proton.me>
-Depends: slimit-gui
-Filename: ./ssprea-nvidia-control-gui_2.0.0-1_amd64.deb
-Size: 752
-MD5sum: 971868cdb9382216589ccac28787043a
-SHA1: 2d2be0f1f007028a58ca52b4b083a5bba848564d
-SHA256: cbffc65b5763c640304ce0921ab340e27665adc05533fd5db1d3812e0ca83522
 Section: oldlibs
 Priority: optional
 Description: Transitional package for slimit-gui
