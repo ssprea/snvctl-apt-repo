@@ -1,4 +1,4 @@
-# APT Repo for ssprea nvidia control
+# APT Repo for [sLimit](https://github.com/ssprea/slimit)
 
 
 
