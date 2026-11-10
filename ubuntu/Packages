@@ -20,6 +20,17 @@ SHA1: a7a6433d862e45ee48cebf2d5fcd28957fddb255
 SHA256: 6fc939b3d81e5bb9078cc60c36a973c6873323d479a333a612654f5f9c3ce050
 Description: Daemon tool for SLimit utility
 
+Package: slimit-daemon
+Version: 2.0.0-2
+Architecture: amd64
+Maintainer: ssprea <ssprea@proton.me>
+Filename: ./slimit-daemon_2.0.0-2_amd64.deb
+Size: 33076836
+MD5sum: 8c1f438ee4be021f83ea0501fed86e70
+SHA1: 8673e22b139d7f40006e28ead76e4aaa7138d83c
+SHA256: f11a57fa70b811c43a73b3ad075cdf2d3ee33cfca02dc3b9b8176c04898aafdd
+Description: Daemon tool for SLimit utility
+
 Package: slimit-gui
 Version: 2.0.0-1
 Architecture: amd64
