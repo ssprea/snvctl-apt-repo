@@ -44,7 +44,7 @@ E: Unable to correct problems, you have held broken packages.
 ```
 ## Add backports PPA (Required for Ubuntu versions prior to 24.10)
 
-## NOTE: After version 1.1.2-2 dotnet-sdk-9.0 is no longer a dependency. This is required only if you want to install an older version.
+## After version 1.1.2-2 dotnet-sdk-9.0 is no longer a dependency. This is required only if you want to install an older version.
 
 Ubuntu versions prior to 24.10 do not have .NET 9 in their standard repositories. To install ssprea-nvidia-control on these versions, you need to add the Canonical PPA for backports:
 
