@@ -29,7 +29,7 @@ sudo apt update
 ## Install software
 
 ```
-sudo apt install ssprea-nvidia-control ssprea-nvidia-control-cli
+sudo apt install slimit-daemon slimit-gui
 ```
 NOTE: CLI package is required for GUI to work properly.
 
